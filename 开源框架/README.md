@@ -22,6 +22,28 @@
 
 ---
 
+### easyquant
+
+> 股票量化框架，支持行情获取以及交易
+
+![image-20200508112652756](https://cdn.jsdelivr.net/gh/mrshiqiqi/quantitative-resource-doc/开源框架/_picture/image-20200508112652756.png)
+
+[>> github](https://github.com/shidenggui/easyquant)
+
+---
+
+### QUANTAXIS
+
+> QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
+
+![image-20200509143642738](_picture/image-20200509143642738.png)
+
+[>> 官网](http://www.yutiansut.com:3000/)
+
+[>> github](https://github.com/QUANTAXIS/QUANTAXIS)
+
+---
+
 ### quantdigger
 
 > 基于python的量化交易平台
@@ -42,7 +64,7 @@
 
 ___
 
-### StrategyEase-Python-SDK
+### StrategyEase
 
 > 策略易（StrategyEase）Python SDK，策略自动化交易 API 及量化平台
 
@@ -54,15 +76,6 @@ ___
 
 ---
 
-### easyquant
-
-> 股票量化框架，支持行情获取以及交易
-
-![image-20200508112652756](https://cdn.jsdelivr.net/gh/mrshiqiqi/quantitative-resource-doc/开源框架/_picture/image-20200508112652756.png)
-
-[>> github](https://github.com/shidenggui/easyquant)
-
----
 
 ### redtorch
 
@@ -98,15 +111,6 @@ ___
 
 ---
 
-### ea-python
-
-> 量化交易策略
-
-![image-20200508114057128](https://cdn.jsdelivr.net/gh/mrshiqiqi/quantitative-resource-doc/开源框架/_picture/image-20200508114057128.png)
-
-[>> github](https://github.com/zhy0313/ea-python)
-
----
 
 ### tqsdk-python
 
@@ -151,7 +155,7 @@ ___
 
 ---
 
-### zheshiyigeniubidexiangmu
+###  Common-Mvc
 
 > 数字货币量化交易系统，支持多家交易所
 
@@ -181,3 +185,96 @@ ___
 
 ---
 
+### DevilYuan
+
+> DevilYuan可视化股票量化系统，支持选股，历史数据自动下载，策略回测及参数优化，实盘交易和常用的统计功能
+
+![image-20200509144116992](_picture/image-20200509144116992.png)
+
+[>> github](https://github.com/moyuanz/DevilYuan)
+
+---
+
+### liveStrategyEngine
+
+> WeQuant微宽网-比特币量化交易/优质策略源码/精准回测/免费实盘，尽在微宽网
+
+![image-20200509144400251](_picture/image-20200509144400251.png)
+
+[>> 官网]([https://wequant.io](https://wequant.io/))
+
+[>> github](https://github.com/wequant-org/liveStrategyEngine)
+
+---
+
+### nodequant
+
+> 一个基于Node.js的开源量化交易平台，轻巧地开发和部署量化投资策略
+
+![image-20200509144525687](_picture/image-20200509144525687.png)
+
+[>> github](https://github.com/zhangshuiyong/nodequant)
+
+---
+
+### thunder-trader
+
+> A industrial high-performance High Frequency Trading System by C++11, support CTP, Femas and so on. 基于C++11开发的量化交易平台，可实现CTP、飞马等平台的高频交易策略。
+
+![image-20200509144639498](_picture/image-20200509144639498.png)
+
+[>> github](https://github.com/galois-advertising/thunder-trader)
+
+---
+
+### fmz_extend_api_demo
+
+> 零成本快速打造你自己专属的多用户量化交易平台
+
+![image-20200509144806791](_picture/image-20200509144806791.png)
+
+[>> 官网](https://www.fmz.com/)
+
+[>> github](https://github.com/fmzquant/fmz_extend_api_demo)
+
+---
+
+### THSTrader
+
+> 量化交易。同花顺免费模拟炒股软件客户端的python API。(Python3)
+
+![image-20200509144940802](_picture/image-20200509144940802.png)
+
+[>> github](https://github.com/nladuo/THSTrader)
+
+---
+
+### sphinx-quant
+
+> 一个基于vnpy，支持多账户，多策略，实盘交易，数据分析，分布式在线回测，风险管理，多交易节点的量化交易系统；支持CTP期货，股票，期权，数字货币等金融产品
+
+![image-20200509145101180](_picture/image-20200509145101180.png)
+
+[>> 官网](https://www.sphinxquant.com/)
+
+[>> github](https://github.com/sphinx-quant/sphinx-quant)
+
+---
+
+### squant
+
+> SQuant是使用scala语言编写的量化开发工具箱，提供开箱即用的A股股票数据和外汇数据（docker镜像），以及高效的回测框架与交易模块。方便Java/Scala爱好者进行量化投资研究。
+
+![image-20200509145214410](_picture/image-20200509145214410.png)
+
+[>> github](https://github.com/eryk/squant)
+
+---
+
+### starquant
+
+> a light-weighted, integrated trading/backtesting system/platform（综合量化交易回测系统/平台）
+
+![image-20200509145321559](_picture/image-20200509145321559.png)
+
+[>> github](https://github.com/physercoe/starquant)
