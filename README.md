@@ -15,7 +15,7 @@
 
 > 添加作者微信入群，扫描后请备注“QT-姓名”，例如：“QT-张三”，否则无法通过。
 
-<img src="https://cdn.jsdelivr.net/gh/mrshiqiqi/resource/WechatCode.jpeg" alt="image-20200509162148029" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/mrshiqiqi/quantitative-resource-doc/_picture/image-20200509162148029.png" alt="image-20200509162148029" style="zoom:50%;" />
 
 **声明**
 
