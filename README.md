@@ -10,3 +10,6 @@
 > 如果你觉得这个站点对你有帮助，那就请我喝杯咖啡吧 ☕
 
 ![](https://cdn.jsdelivr.net/gh/mrshiqiqi/resource/paycode.png)
+
+**声明**
+本站点旨在收集资源，不保证资源的有效性，请看官们理性看待，合理使用资源！！！
