@@ -4,7 +4,7 @@
 
 ![image-20200508112308240](https://cdn.jsdelivr.net/gh/mrshiqiqi/quantitative-resource-doc/开源框架/_picture/image-20200508112308240.png)
 
-[>> 官网]([http://www.vnpy.com](http://www.vnpy.com/))
+[>> 官网](http://www.vnpy.com/)
 
 [>> github](https://github.com/vnpy/vnpy)
 
