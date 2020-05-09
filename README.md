@@ -11,7 +11,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/mrshiqiqi/resource/paycode.png)
 
-### 入群讨论
+## 入群讨论
 
 > 添加作者微信入群，扫描后请备注“QT-姓名”，例如：“QT-张三”，否则无法通过。
 
